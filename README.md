@@ -43,31 +43,31 @@ MCV, or ```Minimum Container Vehicle``` is the minimum unit of the judge system.
 
 ### Project N - The Judge Network Center 🌐🗺️
 
-**_This part is currently WIP, will be finished later, needs more time and suggestions._**
+**_🚧🚧This part is currently WIP, will be finished later, needs more time and suggestions.🚧🚧_**
 
 ### Project Meloetta - The Website System 🎨🖌️
 
-**_This part is currently WIP, will be finished later, needs more time and suggestions._**
+**_🚧🚧This part is currently WIP, will be finished later, needs more time and suggestions.🚧🚧_**
 
 ### Project Shikieiki - The Universal Judge Library 🔎⚒️
 
-**_This part is currently WIP, will be finished later, needs more time and suggestions._**
+**_🚧🚧This part is currently WIP, will be finished later, needs more time and suggestions.🚧🚧_**
 
 ### Project Hieda - The Problem Production Helper ✒️📋
 
-**_This part is currently WIP, will be finished later, needs more time and suggestions._**
+**_🚧🚧This part is currently WIP, will be finished later, needs more time and suggestions.🚧🚧_**
 
 ### Project Okina - The Multiplatform Community Client 💻📱
 
-**_This part is currently WIP, will be finished later, needs more time and suggestions._**
+**_🚧🚧This part is currently WIP, will be finished later, needs more time and suggestions.🚧🚧_**
 
 ## Code of Conduct 🤝
 
-**_This part is currently WIP, will be finished later._**
+**_🚧🚧This part is currently WIP, will be finished later.🚧🚧_**
 
 ## How to contribute ✊
 
-**_This part is currently WIP, will be finished later._**
+**_🚧🚧This part is currently WIP, will be finished later.🚧🚧_**
 
 ## License 📋
 
