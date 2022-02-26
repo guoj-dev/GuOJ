@@ -12,7 +12,7 @@
 ![issues](https://img.shields.io/github/issues/guoj-dev/GuOJ)
 ![issues-pr](https://img.shields.io/github/issues-pr/guoj-dev/GuOJ)
 
-The heading artwork in this project is created by Quank, roughly inspired by [Touhou Project](https://en.wikipedia.org/wiki/Touhou_Project) charactor [Youmu Konpaku](https://en.wikipedia.org/wiki/Youmu_Konpaku) and is Pixiv artwork id:50816843's re-creation artwork. Used modified Noto Emoji's SVG source, licenced under AGPLv3 and CC BY-SA 4.0. Please support the original artist!
+The Heading and Logo of this project is now a Noto Emoji re-creation. Please note that it's original licensed under Apache-2.0.
 
 ---
 
