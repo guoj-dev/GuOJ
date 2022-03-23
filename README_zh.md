@@ -12,7 +12,7 @@
 ![issues](https://img.shields.io/github/issues/guoj-dev/GuOJ)
 ![issues-pr](https://img.shields.io/github/issues-pr/guoj-dev/GuOJ)
 
-上方的艺术作品由Quank绘制，来源于[东方Project](https://en.wikipedia.org/wiki/Touhou_Project)人物[魂魄妖梦](https://thwiki.cc/%E9%AD%82%E9%AD%84%E5%A6%96%E6%A2%A6)和Pixiv艺术品id:50816843的二次创作。 使用了Noto Emoji的SVG 源码，以 AGPLv3 和 CC BY-SA 4.0协议授权。请支持原创艺术作者！
+上方的艺术作品由Quank绘制，使用了Noto Emoji的SVG 源码，以 AGPLv3 和 CC BY-SA 4.0协议授权。请支持原创艺术作者！
 
 ---
 
